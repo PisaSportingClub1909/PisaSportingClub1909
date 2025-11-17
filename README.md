@@ -1,6 +1,14 @@
 # Pisa Sporting Club
 
 <div align="center">
+  <img src="https://via.placeholder.com/200x200?text=PISA+SC" alt="Pisa Sporting Club Logo" width="200"/>
+  
+  **Technology & Innovation Hub**
+</div>
+
+---
+
+<div align="center">
 
 **Benvenuti nella pagina GitHub ufficiale del Pisa Sporting Club**
 
@@ -10,19 +18,17 @@
 
 ---
 
-## Innovazione e Tecnologia
+## Contatti
 
-Questo spazio rappresenta l'impegno del Pisa Sporting Club verso l'innovazione digitale nel mondo del calcio.
+Per collaborazioni e opportunità: **tech@pisasportingclub.com**
 
----
-
-**Contatti:** tech@pisasportingclub.com
+[Sito Ufficiale](https://www.pisasportingclub.com) — [Twitter](https://twitter.com/PisaSC) — [Instagram](https://instagram.com/pisasportingclub)
 
 ---
 
-## Collegamenti
-
-[Sito Ufficiale](https://www.pisasportingclub.com) • [Twitter](https://twitter.com/PisaSC) • [Instagram](https://instagram.com/pisasportingclub) • [Facebook](https://facebook.com/PisaSportingClub)
+<div align="center">
+  <sub>Pisa Sporting Club — Fondato nel 1909</sub>
+</div>
 
 ---
 
