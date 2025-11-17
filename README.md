@@ -2,9 +2,6 @@
 
 <div align="center">
 
-![Pisa Calcio](https://img.shields.io/badge/Serie_B-2024/25-blue)
-![Founded](https://img.shields.io/badge/Founded-1909-green)
-
 **Benvenuti nella pagina GitHub ufficiale del Pisa Sporting Club**
 
 </div>
