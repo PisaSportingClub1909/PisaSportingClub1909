@@ -3,18 +3,9 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/7c945cae-8dce-406d-b405-4d588cfc224f" alt="Pisa Sporting Club Logo" width="200"/>
   
-  **Technology & Innovation Hub**
-</div>
-
----
-
-<div>
-
 **Benvenuti nella pagina GitHub ufficiale del Pisa Sporting Club**
 
-*Dove innovazione e tradizione sportiva si incontrano*
-
-</div>
+*Dove innovazione e tradizione sportiva si incontrano*</div>
 
 ---
 
