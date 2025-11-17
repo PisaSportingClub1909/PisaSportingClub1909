@@ -16,6 +16,6 @@
 
 tech@pisasportingclub.com
 
-<sub>© Pisa Sporting Club - Fondato nel 1909</sub>
+<sub>© Pisa Sporting Club Srl - Fondato nel 1909</sub>
 
 </div>
