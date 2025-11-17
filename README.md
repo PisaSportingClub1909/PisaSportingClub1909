@@ -9,7 +9,7 @@
 
 ---
 
-## Contatti
+### Contatti
 
 Per collaborazioni e opportunità: **tech@pisasportingclub.com**
 
@@ -21,12 +21,3 @@ Per collaborazioni e opportunità: **tech@pisasportingclub.com**
   <sub>Pisa Sporting Club — Fondato nel 1909</sub>
 </div>
 
----
-
-<div align="center">
-
-**Forza Pisa!** 🔵⚫
-
-*Fondato nel 1909 • Pisa, Italia*
-
-</div>
