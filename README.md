@@ -1,14 +1,14 @@
 # Pisa Sporting Club
 
 <div align="center">
-  <img src="https://via.placeholder.com/200x200?text=PISA+SC" alt="Pisa Sporting Club Logo" width="200"/>
+  <img src="https://github.com/user-attachments/assets/7c945cae-8dce-406d-b405-4d588cfc224f" alt="Pisa Sporting Club Logo" width="200"/>
   
   **Technology & Innovation Hub**
 </div>
 
 ---
 
-<div align="center">
+<div>
 
 **Benvenuti nella pagina GitHub ufficiale del Pisa Sporting Club**
 
